@@ -42,7 +42,6 @@ module.exports = {
 
   ],
   plugins: [
-    '~/plugins/vue-websocket'
   ]
 }
 
